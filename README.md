@@ -1,6 +1,5 @@
 # Hotel-Reservation-Dataset-Analysis
-The hotel industry relies on data to make informed decisions and provide a better guest experience. In 
-this internship, you will work with a hotel reservation dataset to gain insights into guest preferences, 
+The hotel industry relies on data to make informed decisions and provide a better guest experience. In this  you will work with a hotel reservation dataset to gain insights into guest preferences, 
 booking trends, and other key factors that impact the hotel's operations
 # Tools used:
 MySQL: Used to create database and perform queries for data analysis
